@@ -1,7 +1,7 @@
 ---
 title: Camerata NovNorte
 image: ''
-email: johndoe@parsian.com
+email: admin@cameratanovnorte.eu
 social:
 - icon: ti-facebook
   link: "#"
