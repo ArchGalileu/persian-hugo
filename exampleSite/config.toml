@@ -34,7 +34,7 @@ author = "Themefisher"
 contact_form_action = "#"
 copyright = "Camerata NovNorte &copy; 2021"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "images/cnnlogo.png"
 search = true
 [params.cookies]
 enable = true
